@@ -1,4 +1,4 @@
-<h1>WGUPS</h1>
+<h1>Delivery Service</h1>
 
 <h2>Description</h2>
 This application loads packages into virtual trucks, delivers them, and tracks their status along the way. Routes are decided using a nearest neighbor algorithm - at the starting location and at each subsequent stop, distances are read in from the distances.csv file, the next stop is decided based on the closest distance from the truck's current location, the truck mileage is updated, and the package is marked as delivered with a timestamp.
