@@ -1,4 +1,3 @@
-#Thomas Kroll, Student ID 011739583
 import csv
 import Hash
 import datetime
